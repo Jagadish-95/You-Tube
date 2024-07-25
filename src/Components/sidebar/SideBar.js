@@ -35,7 +35,7 @@ const SideBar = () => {
      <li>Music</li>
      <li>Sports</li>
      <li>Latest</li>
-     <li>Trending</li>
+     
       </ul>
       </div>
       
